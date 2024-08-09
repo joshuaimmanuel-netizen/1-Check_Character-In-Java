@@ -1,5 +1,5 @@
 import java.util.Scanner;
-
+//Lesson Buddy
 class Solution {
 
     public static void main(String[] args) {
